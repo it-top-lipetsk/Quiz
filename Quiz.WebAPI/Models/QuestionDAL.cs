@@ -1,4 +1,4 @@
-﻿namespace Quiz.WebAPI.DB;
+﻿namespace Quiz.WebAPI.Models;
 
 public class QuestionDAL
 {
