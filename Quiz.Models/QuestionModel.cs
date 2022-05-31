@@ -1,4 +1,4 @@
-﻿namespace Quiz.WebAPI.Models;
+﻿namespace Quiz.Models;
 
 public class QuestionModel
 {
