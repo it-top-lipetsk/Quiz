@@ -1,5 +1,6 @@
 ﻿using Dapper;
 using Microsoft.Data.Sqlite;
+using Quiz.Models;
 using Quiz.WebAPI.Models;
 
 namespace Quiz.WebAPI.DB;
